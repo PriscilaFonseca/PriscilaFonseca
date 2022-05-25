@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on front-end...
 - 🌱 I’m currently learning Html, Css, JavaScript and Reactjs 
-- 😄 Pronouns: She / Her...
+- 😄 Pronouns: She / Her
 
 <div align="center">
   <a href="https://github.com/priscilafonseca">
