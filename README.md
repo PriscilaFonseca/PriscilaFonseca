@@ -1,7 +1,7 @@
 ### Hi! I'm Pri 👋
 
 - 🔭 I’m currently working on front-end...
-- 🌱 I’m currently learning Html, Css, JavaScript and Reactjs 
+- 🌱 I’m currently learning Flutter ...
 - 😄 Pronouns: She / Her
 
   ##
