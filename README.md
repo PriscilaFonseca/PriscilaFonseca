@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on front-end...
 - 🌱 I’m currently learning Flutter ...
-- 😄 Pronouns: She / Her
+
 
   ##
 
